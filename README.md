@@ -56,7 +56,7 @@ SpendDNA is a transaction analytics project built using **Python Fundamentals, N
 2. Place `rahul_transactions.csv` in the same folder as the notebook.
 3. Open the notebook:
    ```
-   SpendDNA.ipynb
+   SpendDNA_Lakshita S.ipynb
    ```
 4. Run all cells from top to bottom.
 5. The final SpendDNA report will be printed in the notebook output.
